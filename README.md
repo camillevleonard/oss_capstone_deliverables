@@ -3,7 +3,7 @@ UVA MSDS Capstone Project
 
 Final products of our UVA capstone project: Measuring the Impact of Open Source Software Using Network Analysis of Github Hosted Python Packages
 
-View the [summary paper](reports/OSS_Capstone___SIEDS_Conference_Paper_2022.pdf) and [presentation](reports/SIEDS Presentation OSS Capstone Project.pdf)
+View the [summary paper](reports/OSS_Capstone___SIEDS_Conference_Paper_2022.pdf) and [presentation](reports/"SIEDS Presentation OSS Capstone Project.pdf")
 
 Project Organization
 ------------
