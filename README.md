@@ -1,7 +1,7 @@
-oss_capstone_deliverable
+UVA MSDS Capstone Project
 ==============================
 
-Final products of our UVA capstone project Measuring the Impact of Open Source Software Using Network Analysis of Github Hosted Python Packages
+Final products of our UVA capstone project: Measuring the Impact of Open Source Software Using Network Analysis of Github Hosted Python Packages
 
 Project Organization
 ------------
