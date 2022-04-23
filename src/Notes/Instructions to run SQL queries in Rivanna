@@ -1,0 +1,5 @@
+Instructions to run code from shell in Rivanna:
+1. Got to Clusters-->_Rivanna Shell Access
+2. Put in psql -U smn7ba -d sdad -h postgis1 #chnage smn7ba to your username
+3. Username: computing id | password computing id
+4. Once logged in this is equivalent to running queries directly in the database.
