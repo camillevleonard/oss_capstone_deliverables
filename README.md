@@ -5,7 +5,7 @@ Final products of our UVA capstone project: Measuring the Impact of Open Source 
 
 View the [summary paper](reports/OSS_Capstone___SIEDS_Conference_Paper_2022.pdf) and [presentation](reports/SIEDS_Presentation_OSS_Capstone_Project.pdf)
 
-The data collected and analyzed in this project can be found on ICPSR(https://www.icpsr.umich.edu/web/pages/ICPSR/index.html) with repo ids: 158827 and 168481.
+The data collected and analyzed in this project can be found on [ICPSR](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html) with repo ids: 158827 and 168481.
 
 ---
 
