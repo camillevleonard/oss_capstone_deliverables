@@ -7,8 +7,8 @@ View the [summary paper](reports/OSS_Capstone___SIEDS_Conference_Paper_2022.pdf)
 
 The data collected and analyzed in this project can be found on [ICPSR](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html) with repo ids: 158827 and 168481.
 
-This repository has two main folders: 
-reports: documentations and papers
+This repository has two main folders: <br>
+reports: documentations and papers <br>
 src: code for analysis
 
 ---
