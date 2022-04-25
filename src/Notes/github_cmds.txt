@@ -1,0 +1,12 @@
+initial steps:
+1. On rivanna, open a terminal from jupyter lab or normally
+2. goto a folder path which you want the repo to be cloned in: cd file_path
+3. cd repo_folder_path
+Cloning and pushing steps:
+1. git clone https://github.com/narashil/MSDS_OSS_Project_2021.git
+2. git add filename (creatre files within the cloned repo)
+3. git commit -m "[descriptive message]"
+4. git push 
+5. Will then ask for username and password. Give your github username and password will not work. You should clreate a personal token and use that. (under profile->developer settings)
+
+If you want to update your cloned repo with latest changes then use git pull. BEcareful as it may override local changes sometimes.
