@@ -8,8 +8,10 @@ View the [summary paper](reports/OSS_Capstone___SIEDS_Conference_Paper_2022.pdf)
 The data collected and analyzed in this project can be found on [ICPSR](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html) with repo ids: 158827 and 168481.
 
 This repository has two main folders: <br>
-reports: documentations and papers <br>
-src: code for analysis
+**reports:** [documentations and papers](https://github.com/camillevleonard/oss_capstone_deliverables/tree/main/reports) <br>
+**src:** [code for analysis](https://github.com/camillevleonard/oss_capstone_deliverables/tree/main/src) <br>
+The details of the code files can be found in **["OSS Capstone Documentation and Summary"]**(https://github.com/camillevleonard/oss_capstone_deliverables/blob/main/reports/OSS%20Capstone%20Documentation%20and%20Summary.docx) document.
+
 
 ---
 
