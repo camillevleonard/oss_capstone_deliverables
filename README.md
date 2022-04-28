@@ -1,4 +1,4 @@
-UVA MSDS Capstone Project
+Open Source Software Impact Analysis
 ==============================
 
 Final products of our UVA capstone project: Measuring the Impact of Open Source Software Using Network Analysis of Github Hosted Python Packages
