@@ -10,7 +10,7 @@ The data collected and analyzed in this project can be found on [ICPSR](https://
 This repository has two main folders: <br>
 **reports:** [documentations and papers](https://github.com/camillevleonard/oss_capstone_deliverables/tree/main/reports) <br>
 **src:** [code for analysis](https://github.com/camillevleonard/oss_capstone_deliverables/tree/main/src) <br>
-The details of the code files can be found in **["OSS Capstone Documentation and Summary"](https://github.com/camillevleonard/oss_capstone_deliverables/blob/main/reports/OSS%20Capstone%20Documentation%20and%20Summary.docx)** document.
+The details of the code files can be found in **["OSS Capstone Documentation and Summary"](https://github.com/camillevleonard/oss_capstone_deliverables/blob/main/reports/OSS%20Capstone%20Documentation%20and%20Summary.pdf)** document.
 
 
 ---
